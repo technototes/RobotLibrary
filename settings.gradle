@@ -1,1 +1,3 @@
+include ':RobotLibrary'
+include ':test'
 include ':RobotCore', ':Blocks', ':RobotServer', ':FtcRobotController', ':FtcCommon', ':Hardware', ':Inspection', ':TeamCode', ':OpenRC'
